@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "everestfundraise",
+    "testing": "ctf-2021-test"
+  }
+}
