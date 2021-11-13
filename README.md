@@ -1,4 +1,4 @@
-# everest-fundraise
+# library-demo
 
 ## Project setup
 ```
